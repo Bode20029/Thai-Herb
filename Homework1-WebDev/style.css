@@ -1,0 +1,49 @@
+h1 {
+    font-size: 32px;
+    color: rgb(255,0,255);
+    text-align: center;
+}
+
+.intro {
+    font-size: 24px;
+}
+
+.list {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 95%;
+}
+
+.doctor {
+    font-size: 24px;
+}
+
+.docpic {
+    height: 320px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+.name {
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+
+head, body {
+    background-color: rgb(255,204,153);
+}
+
+.pictures {
+    display: flex;
+    flex-direction: column;
+    margin-top:0%;
+    flex-wrap: wrap;
+}
+
+.pic {
+    height: 180px;
+    width: 220px;
+}
